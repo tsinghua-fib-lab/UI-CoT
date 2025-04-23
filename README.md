@@ -1,5 +1,7 @@
 # UI-CoT
-The implementation of WWW'25 paper Perceiving Urban Inequality from Imagery Using Visual Language Models with Chain-of-Thought Reasoning
+![Loading Overview](assets/Overview.png "Overview")
+---
+This is the implementation of [WWW'25 paper](https://dl.acm.org/doi/10.1145/3696410.3714536) Perceiving Urban Inequality from Imagery Using Visual Language Models with Chain-of-Thought Reasoning.
 
 ## Citation
 If you use this code in your project or find our project interesting, please consider citing the following paper:
